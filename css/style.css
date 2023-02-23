@@ -1,2 +1,4 @@
-.body{background-color: brown
+.body{background-color: brown;
+    animation:spin infinite linear infinite;
+    text-align: center
     ;}
